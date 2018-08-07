@@ -1,0 +1,27 @@
+div {
+    width: 300px;
+    border: 25px solid grey;
+    padding: 25px grey;
+    margin: 25px;
+}
+
+div2 { 
+    width: 300px;
+    border: 25px solid rgb(50, 50, 50) ;
+    padding: 25px rgb(50, 50, 50);
+    margin: 25px;
+}
+
+div3{ 
+    width: 300px;
+    border: 25px solid rgb(251,251, 251) ; 
+    padding: 25px rgb(251, 251, 251);
+    margin: 25px;}
+
+div4{
+    width: 300px;
+    border: 25px solid rgb(251,251, 251) ; 
+    padding: 25px rgb(251, 251, 251);
+    margin: 25px;}
+
+}
