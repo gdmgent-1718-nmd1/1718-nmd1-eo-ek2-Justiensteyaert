@@ -16,8 +16,6 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
-@import {url 'https://fonts.googleapis.com/css?family=Roboto'};
-
 #grijs {
     float: left;
     background-color:#C2c2c2; 
